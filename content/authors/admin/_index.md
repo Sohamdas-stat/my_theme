@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Soham
+last_name: Das
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: University of Michigan
     url: https://openai.com/
 
 # Social network links
@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
+ # - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+ # - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
